@@ -1,1 +1,5 @@
-2133136
+2133211
+PDF_PATH D:\pdf
+CONNECTION jdbc:mysql://localhost/amts
+USER root
+PASSWORD
